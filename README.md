@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeIgniter 4 Framework
 
 ## What is CodeIgniter?
@@ -55,3 +56,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - [mbstring](http://php.net/manual/en/mbstring.installation.php)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php)
 - xml (enabled by default - don't turn it off)
+=======
+# LP3I_tugas_besar-with-CodeIgniter4
+Lp3i Tugas besar dengan menggunakan Code Igniter 4 | pembuatan form Mahasiswa
+>>>>>>> 21bd6b2c9dd474e7abf75249490ca1f6a4507708
